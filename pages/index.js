@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <Link href="about">About</Link>
       <h1 Welcome className={styles.homeTitle}>
-        Welcome Home MJ
+        Welcome Home
       </h1>
     </div>
   );
